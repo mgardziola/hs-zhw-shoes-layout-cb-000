@@ -304,7 +304,7 @@ footer a {
 
 /* code examples copyright Jonathan Grover 2012 */
 
-col-1 {
+.col-1 {
   width: 32%;
   float: left;
 }
