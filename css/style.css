@@ -114,11 +114,15 @@ iframe {
   box-shadow: 0 3px 10px #333;
 }
 
+#middle {
+  margin: 0 auto;
+}
+
 .milk_text {
   font: bold 42px 'Elsie Swash Caps', cursive;
   color: white;
   text-shadow: 0 2px 3px #000;
-  margin: 0 0 10px;
+  margin: 10px 0 ;
 }
 
 .border_right {
@@ -303,3 +307,20 @@ footer a {
 }
 
 /* code examples copyright Jonathan Grover 2012 */
+
+.col-1 {
+  width: 32%;
+  float: left;
+}
+
+.col-2 {
+  float:left;
+  width: 66%;
+}
+
+.col-3 {
+}
+
+[class*="col-"] {
+  margin-left: 2%;
+}
