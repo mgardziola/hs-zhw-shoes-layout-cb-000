@@ -306,4 +306,5 @@ footer a {
 
 col-3 {
   width: 33%;
+  display: inline;
 }
