@@ -115,10 +115,6 @@ iframe {
 
 }
 
-[class*="col-"] {
-  margin-left: 2%;
-}
-
 .milk_text {
   font: bold 42px 'Elsie Swash Caps', cursive;
   color: white;
