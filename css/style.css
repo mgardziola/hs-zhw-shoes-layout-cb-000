@@ -22,7 +22,7 @@ body {
 }
 
 h2, h3 {
-  margin: 5px 0;
+  margin-bottom: 5px;
 }
 
 ul, ol {
@@ -124,7 +124,6 @@ iframe {
 .border_right {
   border-right: 1px dotted #ccc;
   padding-right: 20px;
-
 }
 
 .thumbs_up {
@@ -207,7 +206,7 @@ iframe {
 }
 
 #logo h2 {
-  margin:5px 0 0 0;
+  margin:0;
   display: inline-block;
   font-family: 'Elsie Swash Caps', cursive;
 }
