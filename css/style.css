@@ -112,7 +112,10 @@ iframe {
 
 .shadow {
   box-shadow: 0 3px 10px #333;
+}
 
+#middle {
+  margin: 0 autol;
 }
 
 .milk_text {
